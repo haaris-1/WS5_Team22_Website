@@ -1,2 +1,5 @@
-# WS5_Team22_Website
-This will be hosted on the internet
+# WS5-Team22
+ 
+Trying to host our website
+
+added all the files
